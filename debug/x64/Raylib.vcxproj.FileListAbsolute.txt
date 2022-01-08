@@ -1,0 +1,2 @@
+D:\Documents\Visuals projects\Test\Raylib\debug\x64\Raylib.exe
+D:\Documents\Visuals projects\Test\223\debug\x64\Raylib.exe
